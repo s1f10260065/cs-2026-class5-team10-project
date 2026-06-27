@@ -548,3 +548,19 @@ nav a:hover::after{
     }
 
 }
+
+.artist-media-box {
+    background-color: #21262d;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 100%;
+    display: flex !important;
+    justify-content: center !important; 
+    align-items: center !important;   
+    text-align: center !important;
+}
+
+.twitter-tweet {
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
